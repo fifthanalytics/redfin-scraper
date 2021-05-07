@@ -16,6 +16,8 @@ python3 app.py
 Edit the `main.py` and create a `listingDetail` object. Example: 
 
 ```
+from listingDetail import listingDetails
+
 listing_detail = listingDetail('12345')
 listing_detail.get_detail()
 ```
