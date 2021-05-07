@@ -27,5 +27,5 @@ Response will be a JSON object with all homes for sale in the 12345 ZIP code.
 ## To Do
 
 - Put in Docker container, push to DockerHub. 
-- Test in GPS/AWS. 
+- Test in GCP/AWS. 
 - Develop individual home links. Search by address? 
